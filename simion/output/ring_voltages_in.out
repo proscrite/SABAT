@@ -1,0 +1,49 @@
+run_number, a, q 
+1, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+0, 2000, 896, 44.8, 10.609506952537, 1.5594309303852
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+-0.1, 1996, 882, 44.188376753507, 10.354386392547, 1.420617983714
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+0.5, 1998, 905, 45.295295295295, 11.586832282657, 1.5657620511077
+---------------------------------------- 
+
+run_number, a, q 
+4, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+-1, 2000, 837, 41.85, 8.5221863228161, 1.6403719322917
+---------------------------------------- 
+
+run_number, a, q 
+5, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+-2, 1999, 795, 39.769884942471, 6.6659280046291, 2.413459372824
+---------------------------------------- 
+
+run_number, a, q 
+6, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+-5, 2000, 7, 0.35, 3.4390997749638, 2.7090181700788
+---------------------------------------- 
+
+run_number, a, q 
+7, 0.2, 0.71 
+
+entry_ring_v, num_ions, num_hits, transmission (%), avg_ke (eV), sd_ke 
+-10, 1999, 0, 0, -1.#IND, -0
+---------------------------------------- 
+

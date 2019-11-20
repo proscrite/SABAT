@@ -1,0 +1,1911 @@
+run_number, a, q 
+1, 0.12, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.12, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 198, 92, 46.464646464646
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.12, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 94, 47
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.12, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 104, 52.791878172589
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.12, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 98, 49.746192893401
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.12, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 95, 47.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.12, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 102, 51
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 95, 47.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 98, 49.746192893401
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 93, 46.733668341709
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 102, 51
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 196, 103, 52.551020408163
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.13, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 91, 45.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 196, 100, 51.020408163265
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 198, 93, 46.969696969697
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 98, 49.246231155779
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 119, 59.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 96, 48.241206030151
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.14, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 82, 41
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 109, 54.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 119, 59.798994974874
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 105, 52.763819095477
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 195, 98, 50.25641025641
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 92, 46
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.15, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 108, 54.27135678392
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 111, 55.778894472362
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 94, 47.236180904523
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 196, 105, 53.571428571429
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 107, 53.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 93, 46.733668341709
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.16, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 196, 101, 51.530612244898
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 90, 45.226130653266
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 198, 99, 50
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 90, 45
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 110, 55
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 196, 107, 54.591836734694
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.17, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 107, 53.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 103, 51.758793969849
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 98, 49.246231155779
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 108, 54.27135678392
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 104, 52
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.18, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 93, 46.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 87, 43.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 98, 49
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 97, 48.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 104, 52.261306532663
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 100, 50.251256281407
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.19, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 194, 98, 50.515463917526
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 90, 45
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 198, 98, 49.494949494949
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 99, 49.748743718593
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 93, 46.733668341709
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 95, 47.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.2, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 94, 47.236180904523
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 94, 47
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 91, 46.192893401015
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 195, 98, 50.25641025641
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 90, 45
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 97, 49.238578680203
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.21, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 96, 48.730964467005
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 197, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 34, 17
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 104, 52
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 101, 50.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 110, 55.276381909548
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.22, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 1, 0.50251256281407
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 52, 26
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 61, 30.5
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 196, 1, 0.51020408163265
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.23, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+1, 0.24, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+135, 194, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 111, 55.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 100, 50.505050505051
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 86, 43
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 102, 51
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 106, 53
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.12, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 108, 54
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 99, 50
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 92, 46
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 97, 48.743718592965
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 106, 53.266331658291
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 118, 59
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 96, 48.241206030151
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.13, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 98, 49.494949494949
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 106, 53
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 89, 44.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 88, 44
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 197, 107, 54.314720812183
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 92, 46
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.14, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 101, 50.753768844221
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 109, 54.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 99, 50
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 101, 51.010101010101
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.15, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 96, 48.484848484848
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 98, 49.246231155779
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 105, 52.763819095477
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 197, 99, 50.253807106599
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 97, 48.743718592965
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 96, 48
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 193, 106, 54.922279792746
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.16, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 97, 48.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 103, 52.020202020202
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 197, 104, 52.791878172589
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 89, 45.408163265306
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 95, 48.469387755102
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 106, 53.266331658291
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.17, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 98, 49.494949494949
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 197, 94, 47.715736040609
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 104, 52
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 197, 98, 49.746192893401
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 98, 49
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 97, 48.743718592965
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.18, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 104, 52.261306532663
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 96, 48
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 107, 54.591836734694
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 75, 37.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 118, 59
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.19, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 100, 50.251256281407
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 96, 48.484848484848
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 82, 41.206030150754
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 116, 58
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 111, 55.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 110, 55
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.2, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 112, 57.142857142857
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 62, 31
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 97, 49.489795918367
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 101, 51.010101010101
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 90, 45
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.21, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 107, 53.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 194, 9, 4.639175257732
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 89, 44.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 99, 49.748743718593
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 81, 40.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.22, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 95, 48.469387755102
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 191, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 36, 18
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 91, 45.959595959596
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.23, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 200, 5, 2.5
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 196, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+2, 0.24, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+136, 198, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 89, 44.949494949495
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 107, 53.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 90, 45.226130653266
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 91, 45.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 102, 51
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 97, 48.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.12, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 95, 47.979797979798
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 110, 55
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 109, 54.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 95, 47.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 96, 48
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 197, 101, 51.269035532995
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 110, 55
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.13, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 107, 53.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 102, 51
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 197, 97, 49.238578680203
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 105, 53.030303030303
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 108, 54.545454545455
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 104, 52.261306532663
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 197, 90, 45.685279187817
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.14, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 94, 47
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 192, 107, 55.729166666667
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 106, 53.266331658291
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 97, 48.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 92, 46
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 97, 48.989898989899
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.15, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 88, 44.444444444444
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 87, 43.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 92, 46.464646464646
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 110, 55
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 113, 56.78391959799
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 90, 45
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 94, 47
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.16, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 108, 54.27135678392
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 98, 49
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 195, 99, 50.769230769231
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 111, 55.778894472362
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 94, 47
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 93, 46.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.17, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 113, 57.070707070707
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 105, 52.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 99, 49.748743718593
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 99, 49.748743718593
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 105, 53.030303030303
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 97, 48.989898989899
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 93, 46.969696969697
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.18, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 196, 98, 50
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 93, 46.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 196, 108, 55.102040816327
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 197, 88, 44.670050761421
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 106, 53
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 98, 49.494949494949
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 197, 100, 50.761421319797
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.19, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 195, 95, 48.717948717949
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 100, 50.505050505051
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 91, 45.959595959596
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 85, 42.713567839196
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 97, 48.743718592965
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 103, 51.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 100, 50
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.2, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 193, 93, 48.186528497409
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 47, 23.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 101, 50.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 196, 97, 49.489795918367
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 98, 49
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 111, 55.778894472362
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 107, 53.768844221106
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.21, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 108, 54
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 3, 1.5151515151515
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 75, 37.688442211055
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 104, 52
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 107, 53.768844221106
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 88, 44
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.22, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 102, 51
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 19, 9.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 99, 49.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 96, 48
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.23, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 198, 78, 39.393939393939
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.68 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 196, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.69 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.7 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.71 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 197, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.72 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 199, 0, 0
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.73 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 13, 6.5
+---------------------------------------- 
+
+run_number, a, q 
+3, 0.24, 0.74 
+
+mass_number, num_ions, num_hits, transmission (%)
+137, 200, 0, 0
+---------------------------------------- 
+
